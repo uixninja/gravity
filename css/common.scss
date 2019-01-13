@@ -323,7 +323,7 @@ h1 {
         background: transparent;
         border: none;
         height: 41px;
-        padding: 5px; /* If you add too much padding here, the options won't show in IE */
+        -webkit-appearance: none;
         width: 120%;
         color: #9eaacc;
         font: 400 13px/41px "Poppins";
